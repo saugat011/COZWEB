@@ -1,4 +1,4 @@
-# ![CozWeb Logo](https://via.placeholder.com/150) **CozWeb Development Company**
+#  **CozWeb Development Company**
 
 Welcome to **CozWeb** — Where innovation meets execution. We specialize in creating cutting-edge applications that captivate users and drive business success. By combining creativity, advanced technology, and market insights, we deliver solutions that are not only functional but also trendsetting.
 
